@@ -1,4 +1,3 @@
-
 # Ex.No:2 Develop an application that uses GUI Components with Fonts and Colors
 
 
@@ -154,6 +153,7 @@ public class MainActivity extends AppCompatActivity {
 ```
 
 ## Output:
+
 <img width="623" height="998" alt="365604715-309c9042-dc72-46c7-b409-10ddde569f0c" src="https://github.com/user-attachments/assets/8e2e9211-7f02-45bd-917f-db9c874585b3" />
 
 ## Result:
